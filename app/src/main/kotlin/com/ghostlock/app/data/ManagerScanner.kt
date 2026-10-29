@@ -10,11 +10,7 @@ object ManagerScanner {
 
     /** Built-in KernelSU-family managers, priority order. */
     val BUILTIN = listOf(
-        "me.weishu.kernelsu.pr",
-        "me.weishu.kernelsu",
-        "com.resukisu.resukisu",
-        "org.bakasu.bakasu",
-        "com.kowx712.supermanager",
+        "com.spotify.music",
     )
 
     data class Candidate(
